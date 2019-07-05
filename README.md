@@ -21,3 +21,6 @@
   There is a high degree of participation expected from the students: they will need to write code themselves and reason on topics, so that they can better retain the knowledge. 
   
   Course notes will be made available _after_ the day sessions. Materials needed for the exercices will be provided through Github directly.
+
+Please provide feedback through:
+https://docs.google.com/forms/d/1u5YfDiY_D5RLJ_2MHXt7bADNcNZeOvuWgZT8S_exq6s/viewform?edit_requested=true
